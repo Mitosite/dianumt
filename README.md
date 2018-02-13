@@ -1,2 +1,2 @@
-# dianumts
+# dianumt
 numts diagnostic tool
