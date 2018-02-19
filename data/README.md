@@ -13,10 +13,10 @@ Reference numts files as coordinates, stored in the [bed](https://genome.ucsc.ed
 
 HG19 numts reference coordinates as implemented in the UCSC Genome Browser.
 
-	Calabrese, F. M., Simone, D., & Attimonelli, M. (2012). Primates and mouse NumtS in the UCSC Genome Browser. BMC bioinformatics, 13(4), S15.
+> Calabrese, F. M., Simone, D., & Attimonelli, M. (2012). Primates and mouse NumtS in the UCSC Genome Browser. BMC bioinformatics, 13(4), S15.
 
 ### Dayama et. al
 
 Numts reference coordinates as used in the [dinumt](https://github.com/mills-lab/dinumt) program.
 
-	Dayama, G., Emery, S. B., Kidd, J. M., & Mills, R. E. (2014). The genomic landscape of polymorphic human nuclear mitochondrial insertions. Nucleic acids research, 42(20), 12640-12649.
+> Dayama, G., Emery, S. B., Kidd, J. M., & Mills, R. E. (2014). The genomic landscape of polymorphic human nuclear mitochondrial insertions. Nucleic acids research, 42(20), 12640-12649.
