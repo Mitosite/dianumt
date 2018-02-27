@@ -9,7 +9,9 @@ We use the [wgsim](https://github.com/lh3/wgsim) utility to simulate reads with 
 
 Data simulated with the followig wgsim commands:
 
-`wgsim code here`
+Single end reads, length 100bp and 100,000 reads created each time.
+No indels, no mutations.
+Error rate varying: 0.0 0.1 0.5 1.0 2.0 5.0 1.0
 
 ## Reference mitochondria files
 
