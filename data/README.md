@@ -15,7 +15,7 @@ Error rate varying: 0.0 0.1 0.5 1.0 2.0 5.0 1.0
 
 ## Reference mitochondria files
 
-chrMT and shifted_chrMT are taken from the Revised Cambridge Reference Sequence of the human mitochondrial DNA ([rCRS](https://www.mitomap.org/MITOMAP/HumanMitoSeq)) - NCBI [entry](https://www.ncbi.nlm.nih.gov/nuccore/251831106). The breakpoint in the shifted version was artificially offset by **8285** bases to take into account the circularity of mitochondria.
+chrMT and shifted_chrMT are taken from the Revised Cambridge Reference Sequence of the human mitochondrial DNA ([rCRS](https://www.mitomap.org/MITOMAP/HumanMitoSeq)) - NCBI [entry](https://www.ncbi.nlm.nih.gov/nuccore/251831106). The breakpoint in the shifted version was artificially offset by **8000** bases to take into account the circularity of mitochondria.
 
 ## Numts files
 
