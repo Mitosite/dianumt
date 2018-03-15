@@ -1,5 +1,4 @@
-# Data used in the dianumt pipeline for analysis of mitochondrial reads, as implented on the HAMSTR webpage
-
+# Data used as part of the pipeline for the analysis of mitochondrial reads
 
 ## Simulated datasets
 
