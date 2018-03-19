@@ -16,7 +16,7 @@ Error rate varying: 0.0 0.1 0.5 1.0 2.0 5.0 1.0
 
 chrMT and shifted_chrMT are taken from the Revised Cambridge Reference Sequence of the human mitochondrial DNA ([rCRS](https://www.mitomap.org/MITOMAP/HumanMitoSeq)) - NCBI [entry](https://www.ncbi.nlm.nih.gov/nuccore/251831106). The breakpoint in the shifted version was artificially offset by **8000** bases to take into account the circularity of mitochondria.
 
-## Numts files
+## Reference numts files
 
 Reference numts files as coordinates, stored in the [bed](https://genome.ucsc.edu/FAQ/FAQformat.html#format1) format. If available, two versions are used: one with the coordinates of numts on the nucleus (\*.nuclear.bed), and one with the corresponding location of the numts on the mitochondria (\*.mitochondrial.bed).
 
@@ -31,3 +31,7 @@ HG19 numts reference coordinates as implemented in the UCSC Genome Browser.
 Numts reference coordinates as used in the [dinumt](https://github.com/mills-lab/dinumt) program.
 
 > Dayama, G., Emery, S. B., Kidd, J. M., & Mills, R. E. (2014). The genomic landscape of polymorphic human nuclear mitochondrial insertions. Nucleic acids research, 42(20), 12640-12649.
+
+## rCRS_known_sorted.vcf
+
+Reference file of known mitochondrial variants.
